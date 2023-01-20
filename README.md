@@ -1,3 +1,14 @@
+# To Run
+Create config.js in `src` folder containing api key. Formatting as follows:
+```javascript
+const config = {
+    APIKey: ""
+}
+
+export default config;
+```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
