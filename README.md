@@ -1,5 +1,5 @@
 # To Run
-Create config.js in `src` folder containing api key. Formatting as follows:
+Create `config.js` in `src` folder containing api key. Formatting as follows:
 ```javascript
 const config = {
     APIKey: ""
